@@ -19,7 +19,7 @@
 -(NSNumber*) bmi;
 
 -(NSNumber*) bmr;
-
+//hi
 -(NSNumber*) changeAWeek;
 
 +(Person*) personExists;
